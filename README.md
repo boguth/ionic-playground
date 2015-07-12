@@ -5,6 +5,7 @@
 
 ##Need to Know
 - Ionic is kind of like a twitter boostrap equivalent for hybrid apps. It makes style and design patterns easily accessible and lets devs get an app looking pretty, quickly. It uses HTML5, CSS, and JS, so is therefore portable to any platform if you then use something like [Phonegap's](http://phonegap.com/) to deploy it to a wide range of mobile devices.
+
 #tl;dr# - Tools exist to package up HTML, CSS, and JS into multi-platofrm native apps. Use Ionic to make those apps look pretty, quickly.
 
 ##Steps to Getting Shit on the Screen
